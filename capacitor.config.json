@@ -1,0 +1,9 @@
+{
+  "appId": "uz.tolovlar.daftari",
+  "appName": "To'lovlar daftari",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  }
+}
